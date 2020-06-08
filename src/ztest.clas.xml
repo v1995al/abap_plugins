@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>Z_GIT</CLSNAME>
+    <CLSNAME>ZTEST</CLSNAME>
     <LANGU>d</LANGU>
-    <DESCRIPT>Git</DESCRIPT>
+    <DESCRIPT>test</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
